@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(152, 3, 252)
+}
+#fondo{
+    background-color: rgb(102, 213, 228);
+}
+#fondo2{
+    background-color: rgb(182, 228, 171);
+}
+#fondo3{
+    background-color: rgb(240, 30, 30);
+}
+#fondo4{
+    background-color: coral;
+}
+input{
+    border-radius: 15px;
+}
+button{
+    border-radius: 15px;
+}
+textarea{
+    border-radius: 15px;
+}
